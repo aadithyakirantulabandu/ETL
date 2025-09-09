@@ -129,7 +129,8 @@ This combination of realism, safety, and operational detail makes the project a 
 1. **Data Generation (Synthea + generator.ps1)**  
    Generates synthetic patient records in CSV format. Runs in batches and continuously feeds new data.
 
-   ![Generator Screenshot](docs\images\Generator.png)
+![Generator Screenshot](docs/images/Generator.png)
+
 
 
 2. **Noise Injection (noise_injector.py)**  
