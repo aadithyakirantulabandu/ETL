@@ -141,7 +141,7 @@ This combination of realism, safety, and operational detail makes the project a 
 
 4. **File Watcher (watcher.py)**  
    Continuously monitors the `/incoming` directory for new CSV files. Any new file is automatically processed.
-   ![Watcher Screenshot](docs\images\Processing.png)
+   ![Watcher Screenshot](docs/images/Processing.png)
 
 
 5. **Pipeline (pipeline.py)**  
@@ -185,7 +185,7 @@ The Power BI dashboard provides a near-real-time view of patient vitals and popu
   - **Hypertension Rate (0.87):** Proportion of patients meeting the hypertension criteria.  
   - **Tachycardia Rate (0.23):** Proportion of patients with tachycardia.  
 
-  ![Dashboard Screenshot](docs\images\Dashboard.png)
+  ![Dashboard Screenshot](docs/images/Dashboard.png)
 
 
 ---
