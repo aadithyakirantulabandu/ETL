@@ -187,6 +187,8 @@ The Power BI dashboard provides a near-real-time view of patient vitals and popu
 
   ![Dashboard Screenshot](docs/images/Dashboard.png)
 
+  ![Cleaned data Screenshot](docs/images/Cleaned data.png)
+
 
 ---
 
